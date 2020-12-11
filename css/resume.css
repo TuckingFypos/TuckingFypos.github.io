@@ -81,6 +81,9 @@ p.lead {
 
 .dev-icons .list-inline-item i:hover {
   color: #BD5D38;
+  display: grid;
+  grid-template-columns: auto  auto auto auto;
+  max-width: 50%;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
